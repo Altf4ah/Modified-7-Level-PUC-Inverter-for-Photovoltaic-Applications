@@ -159,29 +159,27 @@ This inverter topology can be applied in:
 
 ---
 
-# Repository Structure
+## Repository Structure
 
-```
-Modified-7-Level-PUC-Inverter
-│
-├── Simulation
-│   └── MATLAB / Simulink models
-│
-├── Hardware
-│   ├── Driver circuits
-│   ├── Inverter circuit
-│   └── PCB designs
-│
-├── Arduino_Code
-│   └── Switching control program
-│
-├── Images
-│   └── Circuit diagrams and results
-│
-└── Documentation
-    └── Project reports and presentation
-```
+- **Simulation/**
+  - MATLAB / Simulink models
 
+- **Hardware/**
+  - Driver circuits
+  - Inverter circuit
+  - PCB design files
+
+- **Arduino_Code/**
+  - Switching control program
+
+- **Images/**
+  - Circuit diagrams
+  - Simulation results
+  - Hardware output waveforms
+
+- **Documentation/**
+  - Final project report
+  - Presentation slides
 ---
 
 # Authors
