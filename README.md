@@ -184,9 +184,9 @@ This inverter topology can be applied in:
 
 # Authors
 
-Final Year B.Tech Project  
-Department of Electrical Engineering  
-Govt. Model Engineering College, Thrikkara
+Final Year B.Tech Project.  
+Department of Electrical Engineering.  
+Govt. Model Engineering College, Thrikkakara.
 
 - Althaf Ahmed   
 - Daniel Charles  
