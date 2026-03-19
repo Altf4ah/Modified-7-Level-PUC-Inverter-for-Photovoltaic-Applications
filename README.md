@@ -25,6 +25,7 @@ The main objectives of this project are:
 - Develop a **scaled hardware prototype**
 - Analyse output voltage waveform and harmonic distortion
 
+
 ---
 
 # Inverter Topology
