@@ -34,11 +34,11 @@ The Modified PUC inverter is a **seven-level multilevel inverter topology** that
 
 - Two asymmetrical DC voltage sources
 - Six switching devices
-- A specialized switching sequence
+- A specialised switching sequence
 
 The topology produces the following output voltage levels:
 
-<img src="Images/Circuit Diagrams/switching table.PNG">
+<img src="Images/Circuit Diagrams/switching table.PNG" style="filter: invert();">
 
 
 This multilevel output closely approximates a sinusoidal waveform, reducing harmonic distortion and improving power quality.
